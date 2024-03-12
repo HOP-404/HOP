@@ -1,6 +1,5 @@
 #FILE-CLONE 
 ```python
-
 rm -rf HOP
 
 git clone https://github.com/HOP-404/HOP.git
